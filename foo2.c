@@ -1,1 +1,3 @@
-isdfnt foo2()
+iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+sdfnt foo2()
