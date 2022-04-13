@@ -1,2 +1,4 @@
-isldkfjldksfj:wq
+iaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa;
+
+sldkfjldksfj:wq
 :nt foo3();
