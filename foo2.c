@@ -1,0 +1,1 @@
+isdfnt foo2()
